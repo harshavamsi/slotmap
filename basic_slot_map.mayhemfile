@@ -1,0 +1,5 @@
+project: slotmap
+target: basic_slot_map
+
+cmds:
+  - cmd: /basic_slot_map

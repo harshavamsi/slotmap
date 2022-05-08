@@ -1,0 +1,5 @@
+project: slotmap
+target: dense_slot_map
+
+cmds:
+  - cmd: /dense_slot_map

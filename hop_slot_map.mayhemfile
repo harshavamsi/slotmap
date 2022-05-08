@@ -1,0 +1,5 @@
+project: slotmap
+target: hop_slot_map
+
+cmds:
+  - cmd: /hop_slot_map
